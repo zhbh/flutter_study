@@ -1,0 +1,628 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"c",
+				"celsius"
+			],
+			[
+				"f",
+				"fahrenheit"
+			],
+			[
+				"day",
+				"DAY_RANGE"
+			],
+			[
+				"reg",
+				"regMsg"
+			],
+			[
+				"fre",
+				"FREQUENCY_MIN_LEVEL"
+			],
+			[
+				"C",
+				"Component"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"l",
+				"list-style"
+			],
+			[
+				"a",
+				"nAlpha"
+			],
+			[
+				"B",
+				"BLACK"
+			],
+			[
+				"ro",
+				"robotRE"
+			],
+			[
+				"r",
+				"robotRE"
+			],
+			[
+				"s",
+				"SearchEngine"
+			],
+			[
+				"BOARD_H",
+				"BOARD_HEIGHT"
+			],
+			[
+				"p",
+				"player"
+			],
+			[
+				"t",
+				"tapLimitTimeToogle"
+			],
+			[
+				"n",
+				"nToY"
+			],
+			[
+				"cla",
+				"callback"
+			],
+			[
+				"nt",
+				"nType"
+			],
+			[
+				"nto",
+				"nToX"
+			],
+			[
+				"y",
+				"yChessElemet"
+			],
+			[
+				"to",
+				"nToX"
+			],
+			[
+				"w",
+				"WHITE"
+			],
+			[
+				"pa",
+				"playerType"
+			],
+			[
+				"sel",
+				"selectColumn"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"cu",
+				"current"
+			],
+			[
+				"e",
+				"eveluate"
+			],
+			[
+				"ma",
+				"maxDepth"
+			],
+			[
+				"cur",
+				"curPosition"
+			],
+			[
+				"se",
+				"setCurPoistion"
+			],
+			[
+				"tm",
+				"tempArray"
+			],
+			[
+				"re",
+				"realNum"
+			],
+			[
+				"an",
+				"analyLine"
+			],
+			[
+				"sl",
+				"SLEEP3"
+			],
+			[
+				"let",
+				"leftTwo"
+			],
+			[
+				"ri",
+				"rightEdge"
+			],
+			[
+				"ler",
+				"lineRecord"
+			],
+			[
+				"LI",
+				"LIVE4"
+			],
+			[
+				"bla",
+				"BLACK"
+			],
+			[
+				"righ",
+				"rightEdge"
+			],
+			[
+				"lef",
+				"leftEdge"
+			],
+			[
+				"ge",
+				"generateLineRecordArr"
+			],
+			[
+				"ty",
+				"typeRecord"
+			],
+			[
+				"li",
+				"lineRecod"
+			],
+			[
+				"BL",
+				"blackValue"
+			],
+			[
+				"W",
+				"whiteValue"
+			],
+			[
+				"bl",
+				"BLACK"
+			],
+			[
+				"S",
+				"SCORE"
+			],
+			[
+				"sc",
+				"SCORE"
+			],
+			[
+				"L",
+				"LIVE3"
+			],
+			[
+				"fo",
+				"for\tfor (…) {…}"
+			],
+			[
+				"Mo",
+				"moveGenerator"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"g",
+				"grids"
+			],
+			[
+				"pro",
+				"prototype"
+			],
+			[
+				"if",
+				"iframe\tTag"
+			],
+			[
+				"mo",
+				"moveCount"
+			],
+			[
+				"move",
+				"moveCount"
+			],
+			[
+				"mov",
+				"movelist"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"phone",
+				"phone_register_table"
+			],
+			[
+				"qu",
+				"queryResult"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"q",
+				"queryResult"
+			],
+			[
+				"quer",
+				"queryIsExistSql"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"tab",
+				"tabNav"
+			],
+			[
+				"car",
+				"carInfo"
+			],
+			[
+				"pr",
+				"prototype"
+			],
+			[
+				"ca",
+				"carNum"
+			],
+			[
+				"new",
+				"newCar"
+			],
+			[
+				"ne",
+				"new"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"log",
+				"login"
+			],
+			[
+				"bus",
+				"business"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"use",
+				"User"
+			],
+			[
+				"rs",
+				"result"
+			],
+			[
+				"er",
+				"errorLog"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 27.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control",
+				"Preferences: Package Control Settings – User"
+			]
+		],
+		"width": 427.0
+	},
+	"console":
+	{
+		"height": 146.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/zhongbohui/work/flutter/study/day1",
+		"/Users/zhongbohui/work/python/chooseCourseSystem/model/\\data\\school.json",
+		"/Users/zhongbohui/work/python/chooseCourseSystem/model/data\\school.json",
+		"/Users/zhongbohui/工作/python/random_number.py",
+		"/Users/zhongbohui/工作/python/temperature_transfer.py",
+		"/Users/zhongbohui/工作/python/leap_year.py",
+		"/Users/zhongbohui/Library/Application Support/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+		"/Users/zhongbohui/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Users/zhongbohui/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/zhongbohui/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/zhongbohui/工作/python/importThis.py",
+		"/Users/zhongbohui/工作/python/sayhi.py",
+		"/Users/zhongbohui/Downloads/aes-sample/Node/demo.js",
+		"/Users/zhongbohui/Downloads/AngularJS入门.md",
+		"/Users/zhongbohui/frontend/selectCity_201705261952.js.css",
+		"/Users/zhongbohui/frontend/webpack/public/bundle.js",
+		"/Users/zhongbohui/frontend/webpack/app/untitled",
+		"/Users/zhongbohui/前端/tiramisu/public/src/js/redux/components/order/manage_order_form.js",
+		"/Users/zhongbohui/前端/tiramisu/public/src/js/redux/utils/request.js",
+		"/Users/zhongbohui/前端/tiramisu/public/src/js/redux/actions/order_manage_form.js",
+		"/Users/zhongbohui/前端/rem/index.html",
+		"/Users/zhongbohui/前端/tiramisu/public/src/js/redux/components/order/manage_history_orders.js",
+		"/Users/zhongbohui/前端/rem/index.css",
+		"/Users/zhongbohui/前端/rem/demo.html",
+		"/Users/zhongbohui/前端/四连棋项目/代码/app.js",
+		"/Users/zhongbohui/Documents/iphone应用开发/ 健身控项目文件/简介",
+		"/Users/zhongbohui/创新.txt",
+		"/Users/zhongbohui/前端/test.html",
+		"/Users/zhongbohui/.gitignore_global",
+		"/Users/zhongbohui/Documents/iphone应用开发/ 健身控项目文件/隐私政策/健身控隐私政策.txt",
+		"/Users/zhongbohui/Downloads/team-2016-03-26-2049/代码说明.txt",
+		"/Users/zhongbohui/Documents/iphone应用开发/AngelServer/isregister.php",
+		"/Users/zhongbohui/Documents/php/new/3/admin/querylist.php",
+		"/Users/zhongbohui/Documents/iphone应用开发/AngelServer/bin/utils.php",
+		"/Users/zhongbohui/Documents/iphone应用开发/AngelServer/bin/config.linkdb.php",
+		"/Users/zhongbohui/Documents/iphone应用开发/AngelServer/utils.php",
+		"/Users/zhongbohui/CarSecretary/bin/www",
+		"/Users/zhongbohui/CarSecretary/node_modules/session/package.json",
+		"/Users/zhongbohui/CarSecretary/app.js",
+		"/Users/zhongbohui/CarSecretary/package.json",
+		"/Users/zhongbohui/CarSecretary/node_modules/settings.js",
+		"/Users/zhongbohui/CarSecretary/views/login.ejs",
+		"/Users/zhongbohui/CarSecretary/public/stylesheets/login.css",
+		"/Users/zhongbohui/CarSecretary/node_modules/mysql/Readme.md",
+		"/Users/zhongbohui/CarSecretary/config/user.js",
+		"/Users/zhongbohui/CarSecretary/config/db.js",
+		"/Users/zhongbohui/CarSecretary/config/settings.js",
+		"/Users/zhongbohui/CarSecretary/routes/queryStatus.js",
+		"/Users/zhongbohui/CarSecretary/views/index.ejs",
+		"/Users/zhongbohui/CarSecretary/views/layout.ejs",
+		"/Users/zhongbohui/CarSecretary/node_modules/db.js",
+		"/Users/zhongbohui/CarSecretary/node_modules/admin.js",
+		"/Users/zhongbohui/CarSecretary/routes/index.js",
+		"/Users/zhongbohui/CarSecretary/config/carInfo.js",
+		"/Users/zhongbohui/CarSecretary/views/css.ejs",
+		"/Users/zhongbohui/CarSecretary/views/error.ejs",
+		"/Users/zhongbohui/CarSecretary/views/business.ejs",
+		"/Users/zhongbohui/CarSecretary/public/stylesheets/dashboard.css",
+		"/Users/zhongbohui/CarSecretary/public/javascripts/business.js",
+		"/Users/zhongbohui/CarSecretary/public/stylesheets/style.css",
+		"/Users/zhongbohui/CarSecretary/config/admin.js",
+		"/Users/zhongbohui/CarSecretary/config",
+		"/Users/zhongbohui/CarSecretary/settings.js",
+		"/Users/zhongbohui/CarSecretary/routes/db.js",
+		"/Users/zhongbohui/CarSecretary/node_modules/user.js",
+		"/Users/zhongbohui/CarSecretary/routes/login.ejs",
+		"/Users/zhongbohui/CarSecretary/public/stylesheets/singin.css",
+		"/Users/zhongbohui/Documents/iphone应用开发/projectCode/CarSecretary/CarSecretary/business.json",
+		"/Users/zhongbohui/Documents/iphone应用开发/学习笔记/ios代码笔记",
+		"/Users/zhongbohui/.ssh/id_rsa.pub",
+		"/Users/zhongbohui/myweb/app.js"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 305.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "day1.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 147.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
