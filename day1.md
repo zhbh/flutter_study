@@ -1,9 +1,9 @@
 ### day1学习内容
 
 - 安装开放环境
-	> 0.5h
-	> 问题
-		> - git下载速度非常慢，而且下载会失败
+	>0.5h
+	>问题
+		>- git下载速度非常慢，而且下载会失败
 		> ~~ - 改为flutter的github主页点击下载，比较快 ~~
 		> - 用chrome下载[flutter sdk]:(https://flutter.dev/docs/development/tools/sdk/releases?tab=macos#macos)，记住解压包的路径，终端和开发环境需要引用这个路径，调用flutter sdk。
 		> - flutter sdk 引用问题
