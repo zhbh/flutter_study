@@ -34,3 +34,6 @@
 			6. 其他问题
 				以上命令在系统终端运行，在VS code的终端没有反应。在VS code重新输入以上命令。
 
+- 基本语法练习
+    1. Statefulwidgit 和 Statelesswidgit
+
