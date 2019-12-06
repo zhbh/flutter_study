@@ -20,6 +20,7 @@
 				永久存在在用户的环境变量bash_profile文件中，
 				`vi ~/.bash_profile`，再次添加`export PATH=~/[flutter sdk安装路径]/bin:$PATH`，重启此文件，使命令生效：`source ~/.bash_profile`。
 			2. 开发环境VS code的flutter sdk路径，第一次有对话框提示flutter sdk安装路径。如果要再次修改此路径，可以到VS code的setting找到extensions的dart设置fluttersdkpath。
+			3. 在VS code中，终端flutter命令很容易失效。
 		3. 运行flutter run问题，提示没有设备连接
 			1. 在macOS中xcode版本需要10以上，才能远行flutter编译。
 			2. 下载最新的xcode时候，在终端上选择最新xcode版本，执行
